@@ -40,3 +40,9 @@ The following libraries are required to run the project:
 - `transformers`
 
 You can install these libraries using the following command:
+
+pip install -r requirements.txt
+
+## Running the Code
+
+The main code for this project is in the `summ_pipeline.ipynb` notebook. To run the code, open the notebook and execute the cells in order.
