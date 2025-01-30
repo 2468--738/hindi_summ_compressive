@@ -1,0 +1,4 @@
+pandas==2.2.3
+stanza==1.9.2
+tqdm==4.66.1
+transformers==4.44.2
