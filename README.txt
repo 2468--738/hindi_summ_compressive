@@ -46,3 +46,7 @@ pip install -r requirements.txt
 ## Running the Code
 
 The main code for this project is in the `summ_pipeline.ipynb` notebook. To run the code, open the notebook and execute the cells in order.
+
+Rudra sir, for the ritz pipeline, run the `summ_pipeline_rits.ipynb` notebook. There is also `summ_pipeline_code.py` which is not a notebook but a python file that you can run.
+
+Do not forget to set the API_KEY and openai_api_base variables.
